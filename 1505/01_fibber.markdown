@@ -7,7 +7,7 @@
 * Notes: Blog post to come later. Apparently setting up a blog is more involved than I originally thought.
 
 ### Sebastian Abondano
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/sabondano/fibber
 * Notes:
 
 ### Justin Pease
@@ -31,7 +31,7 @@
 * Notes: Only fibonacci4 works. 
 
 ### Rachel Parri
-* Project GitHub URL: https://github.com/Erachelparri/Fibber/blob/master/fibber.rb
+* Project GitHub URL: 
 * Notes:
 
 ### Alex Tideman
@@ -51,7 +51,7 @@
 * Notes: Cool beans
 
 ### Adam Caron
-* Project GitHub URL: https://github.com/adamcaron/fibber
+* Project GitHub URL: 
 * Notes:
 
 ### Drew Conly
